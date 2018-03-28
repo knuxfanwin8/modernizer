@@ -2,7 +2,6 @@
 /* 2018 (c) knuxfanwin8*/   /* https://github.com/knuxfanwin8/modernizer */
 /*====================*/   /*===========================================*/
 
-/* basic fixes */
 @font-face {
     font-family: 'Open Sans';
     src: url('https://fonts.googleapis.com/css?family=Open+Sans');
@@ -14,6 +13,11 @@ html {
 body {
     background-color: #f5f5f5;
     color: #282828;
+    /* dark mode (just remove the next comment and the background-color and color values above!)*/
+    /*
+    background-color: #282828;
+    color: #e8e8e8;
+    */
     font-family: 'Open Sans', sans-serif !important;
     font-size: 16px;
     width: 100%;
@@ -44,4 +48,5 @@ table {
     margin: 0 auto; 
     width: 95%;
     margin-left:5px;
+    overflow-x: hidden;
 }
