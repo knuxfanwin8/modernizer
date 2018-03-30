@@ -7,26 +7,18 @@
     src: url('https://fonts.googleapis.com/css?family=Open+Sans');
 }
 html {
-    margin: -5px;
-    width: 100%;
+    margin: 0px;
 }
 body {
-    background-color: #f5f5f5;
-    color: #282828;
-    /* dark mode (just remove the next comment and the background-color and color values above!)*/
-    /*
-    background-color: #282828;
-    color: #e8e8e8;
-    */
     font-family: 'Open Sans', sans-serif !important;
     font-size: 16px;
-    width: 100%;
-}
-div, header, footer, form, section, article {
-    margin-left: -5px;
-    margin-right: -5px;
+    width: 99%;
+    background-color: #f5f5f5;
+    color: #282828;
     padding-left: 5px;
     padding-right: 5px;
+}
+div, header, footer, form, section, article {
     font-family: 'Open Sans', sans-serif !important;
 }
 a, p {
@@ -46,7 +38,6 @@ a:active {
 }
 table {
     margin: 0 auto; 
-    width: 95%;
-    margin-left:5px;
-    overflow-x: hidden;
+    padding-left: -5px;
+    padding-right: -5px;
 }
