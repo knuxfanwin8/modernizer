@@ -6,24 +6,27 @@
     font-family: 'Open Sans';
     src: url('https://fonts.googleapis.com/css?family=Open+Sans');
 }
+\* {
+    font-family: 'Open Sans', sans-serif;
+}
 html {
     margin: 0px;
 }
 body {
-    font-family: 'Open Sans', sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     width: 99%;
-    background-color: #f5f5f5;
+    background: #fff;
     color: #282828;
     padding-left: 5px;
     padding-right: 5px;
 }
-div, header, footer, form, section, article {
-    font-family: 'Open Sans', sans-serif !important;
+table {
+    margin: 0 auto; 
+    padding-left: -5px;
+    padding-right: -5px;
 }
-a, p {
-    font-family: 'Open Sans', sans-serif !important;
-}
+/* Link colors. */
 a:link {
     color: #1d67c6;
 }
@@ -35,9 +38,4 @@ a:hover {
 }
 a:active {
     color: #1d67c6;
-}
-table {
-    margin: 0 auto; 
-    padding-left: -5px;
-    padding-right: -5px;
 }

@@ -1,7 +1,6 @@
 # modernizer - modern stylesheet for websites + extention
-###Please note this is a very early version of the extention. 
-###It is by no means stable and will glitch out on several websites.
-###Especially new ones.
+Please note this is a very early version of the extention. 
+It is by no means stable and will glitch out on several websites.
 
 ##How to use modernizer?
 
@@ -18,3 +17,10 @@ or temporarily inject the CSS code via inspect element.
 
 ###Using the extention
 The extention will be released once the final version of the stylesheet gets published.
+
+##Tasklist
+- [x] Basic CSS fixes
+- [x] Centering tables
+- [ ] Project page
+- [ ] Preview page
+- [ ] Extention
