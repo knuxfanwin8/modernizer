@@ -2,9 +2,9 @@
 Please note this is a very early version of the extention. 
 It is by no means stable and will glitch out on several websites.
 
-##How to use modernizer?
+## How to use modernizer?
 
-###Using the CSS stylesheet
+### Using the CSS stylesheet
 1. Download the modernizer.css file from the repo. 
 2. Refference the stylesheet in your website's code.
 ```
