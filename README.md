@@ -16,7 +16,14 @@ It is by no means stable and will glitch out on several websites.
 or temporarily inject the CSS code via inspect element.
 
 ### Using the extention
-The extention will be released once the final version of the stylesheet gets published.
+You can use the early version of the modernizer extention.
+1. Download the repo as a .zip archive.
+2. Unpack the extention folder.
+3. In Firefox, go to ``about:debugging``
+4. Tick "Enable addon debugging"
+5. Click on "Load temporary addon"
+6. Navigate to the ``extention/firefox`` folder and pick manifest.json.
+7. You can now use the extention until you restart.
 
 ## Plans for the future and finished tasks
 - [x] Basic CSS fixes
