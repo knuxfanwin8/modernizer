@@ -1,0 +1,17 @@
+{
+
+  "description": "modernizer makes old pages look more modern.",
+  "manifest_version": 2,
+  "name": "modernizer",
+  "version": "1.0",
+  "homepage_url": "https://github.com/knuxfanwin8/modernizer",
+
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "exclude_matches": ["*://*.github.com/*, *://*.discord*.*/*, *://*.twitter.*/*, *://*.facebook.*"],
+      "css": ["modernizer.css"]
+    }
+  ]
+}
