@@ -15,12 +15,13 @@ It is by no means stable and will glitch out on several websites.
 
 or temporarily inject the CSS code via inspect element.
 
-###Using the extention
+### Using the extention
 The extention will be released once the final version of the stylesheet gets published.
 
-##Tasklist
+## Plans for the future and finished tasks
 - [x] Basic CSS fixes
 - [x] Centering tables
 - [ ] Project page
 - [ ] Preview page
 - [ ] Extention
+- [ ] More coming soon...
