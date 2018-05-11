@@ -4,13 +4,13 @@
 
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 \* {
-    font-family: 'Source Sans Pro', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Segoe UI', 'Source Sans Pro', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 html {
     margin: 0px;
 }
 body {
-    font-family: 'Source Sans Pro', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Segoe UI', 'Source Sans Pro', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     width: 100%;
 
     display: block;
