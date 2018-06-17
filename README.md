@@ -28,7 +28,6 @@ You can use the early version of the modernizer extention.
 ## Plans for the future and finished tasks
 - [x] Basic CSS fixes
 - [x] Centering tables
-- [ ] Project page
-- [ ] Preview page
+- [x] Project page
 - [ ] Extention
 - [ ] More coming soon...
