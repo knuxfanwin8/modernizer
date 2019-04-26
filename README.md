@@ -1,3 +1,7 @@
+# Modernizer is no longer being developed.
+
+No help will be offered. If you need a framework for your site, use Bootstrap.
+
 # modernizer - modern stylesheet for websites + extention
 Please note this is a very early version of the extention. 
 It is by no means stable and will glitch out on several websites.
